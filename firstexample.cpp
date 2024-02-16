@@ -13,6 +13,8 @@
 * @section DESCRIPTION
 * 
 * The time class represents a moment of time. 
+*
+*here are the changes the made during branching
 */ 
 
 class Time {
